@@ -1,8 +1,13 @@
 ### Hey there! I'm Matt 
+## 🧑🏻‍💻  About me
+
+🧠Focus on artificial intelligence algorithms and technologies
+💻Computer science
+
 ## 🛠  Tech Stack
 
-Java C++
+-Java, C++
 
-Git GitHub Markdown Latex
+-Git, GitHub, Markdown, Latex
 
-Intellij IDEA Visual Studio Code 
+-Intellij IDEA, Visual Studio Code 
