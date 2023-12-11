@@ -2,6 +2,7 @@
 ## 🧑🏻‍💻  About me
 
 🧠Focus on artificial intelligence algorithms and technologies
+
 💻Computer science
 
 ## 🛠  Tech Stack
