@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hey there! I'm Matt 
+## 🛠  Tech Stack
 
+Java C++
 
-💻   Java C++
-⚙️   Git GitHub Markdown Latex
-🔧   Visual Studio Code Intellij IDEA
+Git GitHub Markdown Latex
+
+Intellij IDEA Visual Studio Code 
