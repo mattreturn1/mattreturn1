@@ -9,6 +9,6 @@
 
 -Java, Kotlin, C++
 
--Git, GitHub, Markdown, Latex
+-Git, GitLab, GitHub, Markdown, Latex
 
 -Intellij IDEA, Visual Studio Code 
