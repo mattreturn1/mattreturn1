@@ -3,11 +3,11 @@
 
 🧠Focus on artificial intelligence algorithms and technologies
 
-💻Computer science
+💻Computer Engineering
 
 ## 🛠  Tech Stack
 
--Java, C++
+-Java, Kotlin, C++
 
 -Git, GitHub, Markdown, Latex
 
