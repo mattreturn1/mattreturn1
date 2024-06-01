@@ -11,4 +11,4 @@
 
 -Git, GitLab, GitHub, Markdown, Latex
 
--Intellij IDEA, Visual Studio Code 
+-Intellij IDEA, Visual Studio Code, Android Studio
