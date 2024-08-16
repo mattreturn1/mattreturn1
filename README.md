@@ -3,7 +3,7 @@
 
 🧠Focus on artificial intelligence algorithms and technologies
 
-💻Computer Engineering
+💻Computer Engineer
 
 ## 🛠  Tech Stack
 
