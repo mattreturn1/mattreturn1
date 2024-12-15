@@ -1,14 +1,36 @@
-### Hey there! I'm Matt 
-## 🧑🏻‍💻  About me
+### 👋 Hi, I'm Matt!
 
-🧠Focus on artificial intelligence algorithms and technologies
+## 🧑🏻‍💻 About Me
 
-💻Computer Engineer
+I am a **Computer Engineer** with a strong focus on **Artificial Intelligence** algorithms and technologies. Passionate about exploring innovative AI solutions and contributing to cutting-edge projects.
 
-## 🛠  Tech Stack
+🔍 Always learning, always coding.
 
--Java, Kotlin, C++
+## 🛠️ Tech Stack
 
--Git, GitLab, GitHub, Markdown, Latex
+- **Programming Languages**:  
+  - Java  
+  - Kotlin  
+  - C++  
+  - Python  
 
--Intellij IDEA, Visual Studio Code, Android Studio
+- **Version Control**:  
+  - Git  
+  - GitHub  
+  - GitLab  
+
+- **Tools & IDEs**:  
+  - IntelliJ IDEA  
+  - Visual Studio Code  
+  - Android Studio  
+
+- **Documentation & Markup**:  
+  - Markdown  
+  - LaTeX  
+
+- **Additional Skills**:  
+  - Software Development  
+  - Mobile App Development  
+  - Machine Learning  
+
+🌱 Currently diving deeper into AI/ML and exploring the latest developments in **deep learning** and **natural language processing**.
