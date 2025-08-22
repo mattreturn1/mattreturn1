@@ -57,3 +57,4 @@ I enjoy solving complex problems, building efficient systems, and staying up-to-
 
 ## 📫 How to Reach Me
 - **GitHub**: [https://github.com/mattreturn1](https://github.com/mattreturn1)
+- **LinkedIn**: [https://www.linkedin.com/in/matt](https://www.linkedin.com/in/mattia-cozza)
