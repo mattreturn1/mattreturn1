@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mattia!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Matt-black?style=flat&logo=github)](https://github.com/mattreturn1)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattia-cozza)
 ---
 
 ## 🧑🏻‍💻 About Me
